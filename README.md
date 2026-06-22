@@ -1,4 +1,4 @@
-#  Student Performance Analysis Using EDA
+# Student Performance Analysis Using EDA
 
 ## Project Overview
 
